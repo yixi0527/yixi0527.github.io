@@ -1,5 +1,5 @@
 ---
-title: "Precise spiking neurons for fitting any activation function in ANN-to-SNN Conversion Number 1"
+title: "Precise spiking neurons for fitting any activation function in ANN-to-SNN Conversion"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-19-paper-title-number-1
