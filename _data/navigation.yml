@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: 'https://scholar.google.com/citations?hl=en&user=RNDjpOAAAAAJ'
     
   # - title: "Talks"
   #   url: /talks/    
@@ -21,7 +21,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: 'http://yixi0527.github.io/files/TianqiWang_EN.pdf'
     
   # - title: "Guide"
   #   url: /markdown/
