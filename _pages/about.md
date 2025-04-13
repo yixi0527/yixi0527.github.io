@@ -1,34 +1,47 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-# About Me
+redirect_from:
 
-Hello! My name is **Wang Tianqi**, and I am an **undergraduate student** at **Donghua University** (2025.03). I am deeply passionate about the intersection of **Neural AI**, **Neuroscience**, and **AI for Science**.
+- /about/
+- /about.html
+---
+Hi, I'm **Wang Tianqi**, currently an **undergraduate student** in **Intelligent Science and Technology** at **Donghua University**. I'm passionate about the intersection of **Neural AI**, **Neuroscience**, and **AI for Science**, and I'm actively exploring how intelligent systems can deepen our understanding of the brain and accelerate scientific discovery.
 
 ## Research Interests
 
-My academic journey is driven by my strong interest in exploring how **artificial intelligence** can contribute to scientific advancements. I am particularly focused on areas like:
+My academic interests lie in combining **artificial intelligence** with **neuroscience** and **computational modeling** to build interpretable, brain-inspired AI systems. I am particularly excited about:
 
-- **Neural AI**
-- **Neuroscience and AI integration**
-- **AI4Science**
+- **Neural AI & Spiking Neural Networks (SNNs)**
+- **AI-driven modeling of neural and cognitive processes**
+- **AI for Science (AI4Science)**
 
-I aim to contribute to the field by advancing AI models and techniques that enhance our understanding of neuroscience and help solve complex scientific problems.
+My goal is to develop AI tools that not only perform efficiently but also provide insight into complex biological and cognitive systems—especially in understanding mental health and brain function.
 
-## Published Work
+## Publications
 
-I am proud to share my published paper:
+**[Precise Spiking Neurons for Fitting Any Activation Function in ANN-to-SNN Conversion](https://link.springer.com/article/10.1007/s10489-025-06354-z)**
+*Applied Intelligence*, February 19, 2025
 
-**Title**: [Precise spiking neurons for fitting any activation function in ANN-to-SNN Conversion](https://link.springer.com/article/10.1007/s10489-025-06354-z)
-**Published on**: February 19, 2025, in *Applied Intelligence*
+In this work, I proposed a novel spiking neuron model (PS neuron) to improve the fidelity of converting artificial neural networks (ANNs) into spiking neural networks (SNNs). This research offers a practical approach to bridging the gap between traditional ANNs and energy-efficient SNNs, while preserving function equivalence.
 
-This paper showcases my research on precise spiking neurons and their role in converting artificial neural networks (ANNs) to spiking neural networks (SNNs), which is a crucial step in improving AI models.
+## Academic Background
+
+Beyond my major, I actively pursue interdisciplinary learning—taking extra courses in **mathematics**, **biomedical sciences**, and **cognitive psychology**. I'm also part of a **university honors program** focused on industrial big data and intelligent systems, which has further shaped my interest in brain-inspired computing and intelligent healthcare.
+
+## Looking for Opportunities
+
+I am currently seeking **research internships**, **graduate study positions**, or **collaborations** in the fields of:
+
+- Neural and brain-inspired computing
+- Neuroscience-AI integration
+- Scientific discovery with AI (AI4Science)
+
+If you’re working in these areas or simply interested in a conversation, I’d love to connect!
 
 ---
 
-Feel free to reach out to me if you're interested in discussing my research, potential collaborations, or any exciting opportunities in these fields!
+Feel free to reach out to me if you'd like to discuss research ideas, academic paths, or potential collaborations.
+
+---
