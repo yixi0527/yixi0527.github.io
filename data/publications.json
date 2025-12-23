@@ -2,28 +2,15 @@
     "publications": [
         {
             "id": 1,
-            "year": "2024",
-            "title": "Example Publication: Understanding Emotional Processing in Social Contexts Using Deep Learning",
-            "authors": "Wang, T., Zhang, X., Li, Y., & Chen, Z.",
-            "venue": "Nature Neuroscience (Example)",
-            "abstract": "This is an example publication entry. Replace this with your actual publication details. This abstract demonstrates how the publication cards will appear on your personal page. Each publication can have links to the paper, code repository, and other resources.",
+            "year": "2025",
+            "title": "Precise spiking neurons for fitting any activation function in ANN-to-SNN Conversion",
+            "authors": "Tianqi Wang, Qianzi Shen, Xuhang Li, Yanting Zhang, Zijian Wang & Cairong Yan ",
+            "venue": "Applied Intelligence",
+            "abstract": "Spiking Neural Networks (SNNs) are recognized for their energy efficiency due to spike-based communication. In this regard, the shift towards SNNs is driven by their ability to significantly reduce energy consumption while maintaining the performance of ANNs. Converting Artificial Neural Networks (ANNs) to SNNs is a key research focus, but existing methods often struggle with balancing conversion accuracy and latency, and are typically restricted to ReLU activations. We introduce Precision Spiking (PS) neurons, a novel dynamic spiking neuron model that can precisely fit any activation function by jointly regulating spike timing, reset voltage, and membrane potential threshold. This capability enables exact parameter optimization via iterative methods, achieving low-latency, high-accuracy ANN-to-SNN conversion. Experiments on image classification and natural language processing benchmarks confirm state-of-the-art results, with a maximum conversion loss of 0.55% and up to 0.38% accuracy improvement over the original ANN. To the best of our knowledge, this method offers a significant advancement over existing approaches by achieving high-precision fitting of arbitrary activation functions with low latency and minimal conversion loss, thus considerably expanding the range of feasible ANN-to-SNN conversions.",
             "links": {
-                "paper": "https://doi.org/example",
-                "code": "https://github.com/example/repo",
-                "pdf": "assets/papers/example.pdf"
-            }
-        },
-        {
-            "id": 2,
-            "year": "2023",
-            "title": "Example Publication: Brain-Inspired Neural Network for Emotion Recognition",
-            "authors": "Wang, T., Liu, M., & Zhang, X.",
-            "venue": "Conference on Neural Information Processing Systems (NeurIPS) - Example",
-            "abstract": "Another example publication. The abstract text will be truncated with an ellipsis if it exceeds three lines, encouraging users to click through to read the full paper. Update this JSON file to add your real publications.",
-            "links": {
-                "paper": "https://doi.org/example2",
-                "code": null,
-                "pdf": null
+                "paper": "https://doi.org/10.1007/s10489-025-06354-z",
+                "code": "https://github.com/yixi0527/PSNeuron",
+                "pdf": "assets/papers/s10489-025-06354-z.pdf"
             }
         }
     ]

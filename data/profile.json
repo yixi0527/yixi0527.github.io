@@ -1,23 +1,23 @@
 {
     "name": "Wang Tianqi",
     "title": "Ph.D. Student",
-    "affiliation": "Shanghai Jiao Tong University School of Medicine",
-    "avatar": "assets/avatar.jpg",
+    "affiliation": "Songjiang Research Institute, Songjiang Hospital Affiliated to Shanghai Jiao Tong University School of Medicine",
+    "avatar": "assets/avatar.png",
     "tagline": "Exploring the intersection of neuroscience and AI, with a focus on how emotions shape social behavior and cognition.",
     "socialLinks": [
         {
             "name": "GitHub",
-            "url": "https://github.com/your-github-username",
+            "url": "https://github.com/yixi0527",
             "icon": "fab fa-github"
         },
         {
             "name": "Google Scholar",
-            "url": "https://scholar.google.com/citations?user=YOUR_ID",
+            "url": "https://scholar.google.com/citations?user=RNDjpOAAAAAJ",
             "icon": "fas fa-graduation-cap"
         },
         {
             "name": "Email",
-            "url": "mailto:your.email@sjtu.edu.cn",
+            "url": "mailto:kian.tq.wang@gmail.com",
             "icon": "fas fa-envelope"
         }
     ]
