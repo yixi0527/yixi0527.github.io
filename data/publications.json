@@ -1,0 +1,30 @@
+{
+    "publications": [
+        {
+            "id": 1,
+            "year": "2024",
+            "title": "Example Publication: Understanding Emotional Processing in Social Contexts Using Deep Learning",
+            "authors": "Wang, T., Zhang, X., Li, Y., & Chen, Z.",
+            "venue": "Nature Neuroscience (Example)",
+            "abstract": "This is an example publication entry. Replace this with your actual publication details. This abstract demonstrates how the publication cards will appear on your personal page. Each publication can have links to the paper, code repository, and other resources.",
+            "links": {
+                "paper": "https://doi.org/example",
+                "code": "https://github.com/example/repo",
+                "pdf": "assets/papers/example.pdf"
+            }
+        },
+        {
+            "id": 2,
+            "year": "2023",
+            "title": "Example Publication: Brain-Inspired Neural Network for Emotion Recognition",
+            "authors": "Wang, T., Liu, M., & Zhang, X.",
+            "venue": "Conference on Neural Information Processing Systems (NeurIPS) - Example",
+            "abstract": "Another example publication. The abstract text will be truncated with an ellipsis if it exceeds three lines, encouraging users to click through to read the full paper. Update this JSON file to add your real publications.",
+            "links": {
+                "paper": "https://doi.org/example2",
+                "code": null,
+                "pdf": null
+            }
+        }
+    ]
+}

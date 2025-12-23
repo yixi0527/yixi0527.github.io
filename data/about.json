@@ -1,0 +1,26 @@
+{
+    "intro": "Ph.D. student at Shanghai Jiao Tong University School of Medicine, exploring the intersection of neuroscience and AI, with a focus on how emotions shape social behavior and cognition. Passionate about using artificial intelligence to uncover the mechanisms of consciousness, emotion, and complex brain functions.",
+    "description": "Hi, I'm Wang Tianqi, currently a Ph.D. student at Shanghai Jiao Tong University School of Medicine. My research lies at the intersection of neuroscience and artificial intelligence, with a particular focus on understanding how emotions influence social behavior. I am passionate about leveraging AI methods to provide interpretable insights into core questions of brain science, including consciousness, emotion, and cognition.",
+    "academicBackground": {
+        "title": "Academic Background",
+        "content": "Building on my undergraduate studies in Intelligent Science and Technology at Donghua University, I continue to pursue interdisciplinary learning in neuroscience, cognitive science, and AI. This foundation allows me to approach brain-inspired research from both computational and experimental perspectives."
+    },
+    "researchInterests": [
+        {
+            "title": "Neural & Brain-inspired Computing",
+            "description": "Developing computational models inspired by biological neural systems and brain architecture.",
+            "icon": "fas fa-brain"
+        },
+        {
+            "title": "Social & Emotional Behavior Modeling",
+            "description": "Computational modeling of how emotions influence social interactions and decision-making.",
+            "icon": "fas fa-heart"
+        },
+        {
+            "title": "AI for Cognitive Science",
+            "description": "AI-driven approaches to understanding consciousness, cognition, and complex brain functions.",
+            "icon": "fas fa-microchip"
+        }
+    ],
+    "contactIntro": "I am eager to connect with researchers and collaborators who share an interest in the intersection of neuroscience and AI. I am open to discussions, collaborative projects, and research opportunities that aim to deepen our understanding of the brain and its complex functions. Feel free to reach out if you are interested in exchanging ideas or exploring potential collaborations."
+}

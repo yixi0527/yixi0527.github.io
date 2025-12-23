@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wang Tianqi - Personal Page</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="nav-logo">Wang Tianqi</a>
+            <ul class="nav-menu">
+                <li><a href="#about">About</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section with Avatar -->
+    <section class="hero" id="hero">
+        <div class="hero-container">
+            <div class="avatar-container">
+                <img src="assets/avatar.jpg" alt="Wang Tianqi" class="avatar" id="avatar">
+            </div>
+            <div class="hero-text">
+                <h1 id="hero-name">Wang Tianqi</h1>
+                <p class="hero-title" id="hero-title">Ph.D. Student</p>
+                <p class="hero-affiliation" id="hero-affiliation">Shanghai Jiao Tong University School of Medicine</p>
+                <div class="social-links" id="social-links">
+                    <!-- Dynamically loaded -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section about-section" id="about">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-content" id="about-content">
+                <!-- Dynamically loaded from data/about.json -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Research Interests Section -->
+    <section class="section interests-section" id="interests">
+        <div class="container">
+            <h2 class="section-title">Research Interests</h2>
+            <div class="interests-grid" id="interests-grid">
+                <!-- Dynamically loaded -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Publications Section -->
+    <section class="section publications-section" id="publications">
+        <div class="container">
+            <h2 class="section-title">Publications</h2>
+            <div class="publications-list" id="publications-list">
+                <!-- Dynamically loaded from data/publications.json -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section contact-section" id="contact">
+        <div class="container">
+            <h2 class="section-title">Contact</h2>
+            <div class="contact-content" id="contact-content">
+                <!-- Dynamically loaded -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; <span id="current-year"></span> Wang Tianqi. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
